@@ -75,7 +75,7 @@
       "",
       "</style>"
     ],
-    "description": "Base for Vue File Composition API with SCSS"
+    "description": "Base for Vue File Composition API with Stylus"
   },
   "Vue Single File Component Composition API": {
     "prefix": "vbase-plain",
@@ -96,11 +96,11 @@
       "}",
       "</script>",
       "",
-      "<style lang=\"scss\" scoped>",
+      "<style lang=\"stylus\" scoped>",
       "",
       "</style>"
     ],
-    "description": "Base for Vue File Composition API with SCSS"
+    "description": "Base for Vue File Composition API with Stylus"
   },
   "Vue Single File Component Composition API Reactive": {
     "prefix": "vbase-reactive",
@@ -127,7 +127,7 @@
       "}",
       "</script>",
       "",
-      "<style lang=\"scss\" scoped>",
+      "<style lang=\"stylus\" scoped>",
       "",
       "</style>"
     ],
