@@ -2,7 +2,7 @@
 
 ![vue-snippet-hero](https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/vue-snippet-hero.gif)
 
-### Modified clean up Vue 3 snippets focused on TypeScript, Composition API and Stylus.
+### Modified clean Vue 3 snippets focused on TypeScript, Composition API and Stylus.
 
 ## Description
 
